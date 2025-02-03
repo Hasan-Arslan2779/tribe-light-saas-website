@@ -1,4 +1,4 @@
-# tribe-light-saas-website
+# Tribe-light-saas-website
 
 Merhaba arkadaşlar, bu projede bir iş yönetim web sitesi geliştirdim.
 
